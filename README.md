@@ -1,7 +1,5 @@
-## Variables & constants
-### Declaring, Definding an working with constants
-#### variables.js
-
-## Operators
-### Learning operators and using operators with variables
-### operators.js
+## Lesson One
+### Data types, Operators and Variables
+#### Data types explained
+#### Operators and how to use them
+#### Declaring, Definding Variables
